@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "896553143238",
+    "firebase_url": "https://my-admin-panel-da25a-default-rtdb.firebaseio.com",
+    "project_id": "my-admin-panel-da25a",
+    "storage_bucket": "my-admin-panel-da25a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896553143238:android:a5c0cafd0152ca8a7a80c7",
+        "android_client_info": {
+          "package_name": "com.example.myadminpanel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE_appOgepj7C2GqOz6fEbF8GNTZbWm2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
